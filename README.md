@@ -14,8 +14,8 @@
 - [📊 Analisis de Evasión de Clientes ](https://github.com/Alejandro-lopez1/telecom-analisis-evasion-de-clientes-parte-2)  
   Exploratory Data Analysis (EDA) of churn indicators. Tools: Python, Pandas, Matplotlib, Google Colab.  
 
-- [💻 Portfolio Web](https://github.com/Alejandro-lopez1/portfolio)  
-  Personal website built with HTML, CSS & JavaScript.  
+- [💻 Análisis de rentabilidad de Tiendas ](https://github.com/Alejandro-lopez1/challenge-AluraStorelatam)  
+  Exploratory Data Analysis (EDA) of sales indicators. Tools: Python, Pandas, Numpy, Matplotlib, Google Colab.  
 
 - [⏱️ Python Stopwatch](https://github.com/Alejandro-lopez1/cronometro)  
   A simple digital stopwatch built with Python.  
