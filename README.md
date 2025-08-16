@@ -11,8 +11,8 @@
 
 ### 📌 Featured Projects  
 
-- [📊 Inflation vs Unemployment in Argentina](https://github.com/Alejandro-lopez1/tu-repo)  
-  Exploratory Data Analysis (EDA) of macroeconomic indicators. Tools: Python, Pandas, Matplotlib.  
+- [📊 Analisis de Evasión de Clientes ](https://github.com/Alejandro-lopez1/telecom-analisis-evasion-de-clientes-parte-2)  
+  Exploratory Data Analysis (EDA) of churn indicators. Tools: Python, Pandas, Matplotlib, Google Colab.  
 
 - [💻 Portfolio Web](https://github.com/Alejandro-lopez1/portfolio)  
   Personal website built with HTML, CSS & JavaScript.  
